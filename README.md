@@ -37,12 +37,12 @@
 ---
 
 #### **Projects**  
-**Enterprise Networking & AWS Cloud Infrastructure Project**                                    
-       - Created a LAN, WAN network using Cisco Packet Tracer, Linux (CentOS/Ubuntu), AWS (VPC, S3, CloudWatch, RDS), Routing Protocols (OSPF, BGP), Port Security, NFS.
- ** Edge Intelligence & IoT in Healthcare**                                   
-       - Designed a low-latency communication protocol for IoT devices, facilitating seamless data transmission; optimized system for 2,000+ concurrent patient connections, ensuring scalability.
- ** Cybersecurity Case Analysis**                                                                                    
-        - Analyzed a cybersecurity case by examining a forensic disk and documented evidence using the Autopsy tool.
+- **Enterprise Networking & AWS Cloud Infrastructure Project**                                    
+   Created a LAN, WAN network using Cisco Packet Tracer, Linux (CentOS/Ubuntu), AWS (VPC, S3, CloudWatch, RDS), Routing Protocols (OSPF, BGP), Port Security, NFS.
+-  **Edge Intelligence & IoT in Healthcare**                                   
+    Designed a low-latency communication protocol for IoT devices, facilitating seamless data transmission; optimized system for 2,000+ concurrent patient connections, ensuring scalability.
+ - **Cybersecurity Case Analysis**
+   Analyzed a cybersecurity case by examining a forensic disk and documented evidence using the Autopsy tool.
 ---
 
 #### **Certifications**  
@@ -59,7 +59,7 @@
 
 ---
 
-####**Internship**
+**Internship**
 -  Skilled in Networking, Linux Administration, AWS Cloud, and Cybersecurity, with hands-on exposure to network security, vulnerability assessment, and incident response through an internship in IMS Cybersecurity at KGISL Micro college.
 
 ---
