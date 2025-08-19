@@ -8,20 +8,27 @@
 ---
 
 #### **About Me**  
-Motivated and technically skilled Computer Science Engineering student with expertise in **Python**, **HTML**, and **CSS**. Dedicated to creating innovative and efficient web solutions, with a keen interest in **blockchain technology**, **website development**, and **digital marketing**. Strong foundation in problem-solving and collaborative work, seeking to expand skills through meaningful projects and challenges.
-
+Enthusiastic and technically proficient Computer Science Engineering graduate with a strong foundation in Python, Linux, Networking, AWS, and Cybersecurity. Eager to leverage my skills to contribute to innovative, secure, and efficient solutions while growing within a dynamic organization.
 ---
 
 #### **Skills**  
-- **Programming Languages:** Python, 
-- **Tools:** VS Code, GitHub, Microsoft Office, Canva  
-- **Languages:** Tamil (native), English (fluent)  
-
+- Networking
+- LAN
+- WAN
+- DHCP
+- Linux
+- Disk management
+- AWS S3
+- VPC
+- Cloud Watch
+- Cloud front
+- DNS
+- Python
 ---
 
 #### **Education**  
-- **BE in Computer Science** (Pursuing)  
-  Surya Engineering College | Current CGPA: 7.9/10  
+- **BE in Computer Science**  
+  Surya Engineering College | Current CGPA: 7.94/10  
 - **HSC (Mathematics Top Scorer)**  
   Palanammal Municipal Girls HR Sec School | Cum Percentage: 89.7% (2021)  
 - **SSC (School 2nd Rank)**  
