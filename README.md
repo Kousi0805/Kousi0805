@@ -53,14 +53,6 @@
 
 ---
 
-#### **Experience**  
-- **Workshop Participant: Data Visualization with Matplotlib** (April 2023)  
-  Enhanced skills by creating dynamic data visualizations.  
-- **Guest Lecturer: Operating Systems** (March 2023)  
-  Delivered interactive and practical sessions to improve understanding of operating systems.  
-
----
-
 #### **Achievements**  
 - Successfully organized a **singing competition**, managing participants, judges, and logistics.  
 - Completed an intensive **Soft Skills Development Training** by NPTEL (Feb 2024).  
