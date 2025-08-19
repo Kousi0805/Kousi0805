@@ -67,8 +67,13 @@
 
 ---
 
+####**Internship**
+-  Skilled in Networking, Linux Administration, AWS Cloud, and Cybersecurity, with hands-on exposure to network security, vulnerability assessment, and incident response through an internship in IMS Cybersecurity at KGISL Micro college.
+
+---
+
 #### **Interests**  
-- **Technical:** Blockchain, Website Development, Digital Marketing  
+- **Technical:** Blockchain, Digital Marketing  
 - **Non-Technical:** Handcrafting, Designing  
 
 --- 
