@@ -1,5 +1,5 @@
  Kousalya R  
-**Aspiring Web Developer | Computer Science Engineer | Blockchain Enthusiast**  
+** Computer Science Engineering graduate|Linux, Networking, AWS, python& Cybersecurity Enthusiast | Currently Upskilling in Cybersecurity at KGISL Micro College**  
 
 **📍 Location:** Tirupur, Tamil Nadu, India  
 **📧 Email:** kousalyaraman40@gmail.com  
@@ -13,7 +13,7 @@ Motivated and technically skilled Computer Science Engineering student with expe
 ---
 
 #### **Skills**  
-- **Programming Languages:** Python, HTML, CSS  
+- **Programming Languages:** Python, 
 - **Tools:** VS Code, GitHub, Microsoft Office, Canva  
 - **Languages:** Tamil (native), English (fluent)  
 
