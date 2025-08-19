@@ -2,26 +2,34 @@
 **Aspiring Web Developer | Computer Science Engineer | Blockchain Enthusiast**  
 
 **📍 Location:** Tirupur, Tamil Nadu, India  
-**📧 Email:** kousalyaraman40@gmail.com  
+**📧 Email:** kousalyaraman4@gmail.com  
 **📱 Contact:** +91 8438527692  
 
 ---
 
 #### **About Me**  
-Motivated and technically skilled Computer Science Engineering student with expertise in **Python**, **HTML**, and **CSS**. Dedicated to creating innovative and efficient web solutions, with a keen interest in **blockchain technology**, **website development**, and **digital marketing**. Strong foundation in problem-solving and collaborative work, seeking to expand skills through meaningful projects and challenges.
-
+Enthusiastic and technically proficient Computer Science Engineering graduate with a strong foundation in Python, Linux, Networking, AWS, and Cybersecurity. Eager to leverage my skills to contribute to innovative, secure, and efficient solutions while growing within a dynamic organization.
 ---
 
 #### **Skills**  
-- **Programming Languages:** Python, HTML, CSS  
-- **Tools:** VS Code, GitHub, Microsoft Office, Canva  
-- **Languages:** Tamil (native), English (fluent)  
+- Networking
+- LAN
+- WAN
+- DHCP
+- Linux
+- Disk management
+- AWS S3
+- VPC
+- Cloud Watch
+- Cloud front
+- DNS
+- Python 
 
 ---
 
 #### **Education**  
-- **BE in Computer Science** (Pursuing)  
-  Surya Engineering College | Current CGPA: 7.9/10  
+- **BE in Computer Science**  
+  Surya Engineering College | Current CGPA: 7.94/10  
 - **HSC (Mathematics Top Scorer)**  
   Palanammal Municipal Girls HR Sec School | Cum Percentage: 89.7% (2021)  
 - **SSC (School 2nd Rank)**  
@@ -30,14 +38,19 @@ Motivated and technically skilled Computer Science Engineering student with expe
 ---
 
 #### **Projects**  
-- **Keylogger Application**  
-  Developed using **Python**, **JSON**, **Tkinter**, and **Pynput**. Successfully captures and logs keystrokes, demonstrating robust programming skills.
-
+- **Enterprise Networking & AWS Cloud Infrastructure Project**                                    
+        Created a LAN, WAN network using Cisco Packet Tracer, Linux (CentOS/Ubuntu), AWS (VPC, S3, CloudWatch, RDS), Routing Protocols (OSPF, BGP), Port Security, NFS.
+- **Edge Intelligence & IoT in Healthcare**                                        
+        Designed a low-latency communication protocol for IoT devices, facilitating seamless data transmission; optimized system for 2,000+ concurrent patient connections, ensuring scalability.
+- **Cybersecurity Case Analysis**                                                                                     
+       Analyzed a cybersecurity case by examining a forensic disk and documented evidence using the Autopsy tool.
 ---
 
-#### **Certifications**  
-- **Fundamentals of Cyber Security with Kali Linux** - IBM SkillsBuild (March 2024)  
-- **Python for Beginners** - Edu Prep (2023)  
+#### **Certifications**    
+- CCNA: Enterprise Networking, security and Automation course  
+- Python Essentials | CISCO Academy              
+- Red Hat system Administration | Red Hat Academy   
+- AWS Academy cloud Architecting | AWS Academy         
 
 ---
 
@@ -56,7 +69,7 @@ Motivated and technically skilled Computer Science Engineering student with expe
 ---
 
 #### **Interests**  
-- **Technical:** Blockchain, Website Development, Digital Marketing  
+- **Technical:** Blockchain, Digital Marketing  
 - **Non-Technical:** Handcrafting, Designing  
 
 --- 
